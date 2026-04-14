@@ -1,0 +1,29 @@
+{
+    "name": "happenv/address-splitter",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "pestphp/pest": "^4.6",
+        "laravel/pint": "^1.29"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Happenv\\AddressSplitter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bartlomiej Gajda",
+            "email": "code@webard.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
