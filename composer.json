@@ -1,5 +1,5 @@
 {
-    "name": "happenv/address-splitter",
+    "name": "happenv-com/address-splitter",
     "type": "library",
     "require": {
         "php": "^8.0"
