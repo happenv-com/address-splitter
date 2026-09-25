@@ -1,5 +1,11 @@
 # Address Splitter
 
+<div class="filament-hidden">
+
+![Address Splitter](art/banner.png)
+
+</div>
+
 A PHP library for parsing addresses into components: street, building number, and apartment number.
 
 Supports country-specific address formats for 27 European countries and includes generic fallback strategies for unknown formats.
